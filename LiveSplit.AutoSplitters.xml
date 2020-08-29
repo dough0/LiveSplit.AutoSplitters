@@ -9798,4 +9798,15 @@
         <Description>Game Time and Splits (major splits only). Splits available at Website. (By bmn)</Description>
         <Website>https://github.com/bmn/livesplit_asl_mgsi/</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>LEGO DC Super-Villains</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dough0/dcsv-loadingbad/master/DCSV.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Removal Script. (by Melody)</Description>
+        <Website>https://www.speedrun.com/ldcsv/resources</Website>
+    </AutoSplitter>
 </AutoSplitters>
